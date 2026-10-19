@@ -1,0 +1,93 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: unknown
+  Lower bound: 206503.2256
+  Upper bound: 206503.2256
+  Number of objectives: 1
+  Number of constraints: 53
+  Number of variables: 250
+  Number of nonzeros: 1250
+  Sense: maximize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Termination condition: optimal
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 0.10576128959655762
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: feasible
+  Message: None
+  Objective:
+    objfn:
+      Value: 206503.22560000012
+  Variable:
+    x[Clubmaster,Mirror]:
+      Value: 504
+    x[Clubmaster,Outdoor]:
+      Value: 216
+    x[Denim,Classic]:
+      Value: -2.36433172093574e-14
+    x[Flak,Mirror]:
+      Value: 305.846400000001
+    x[Flak,RB3603]:
+      Value: 222.153599999999
+    x[Flak,Titanium]:
+      Value: 132
+    x[FlightJacket,Collection]:
+      Value: 312
+    x[FlightJacket,Outdoor]:
+      Value: 78
+    x[FrogSkins,Evolve]:
+      Value: 80
+    x[FrogSkins,FlashLenses]:
+      Value: 320
+    x[Gaskan,Evolve]:
+      Value: 150
+    x[Gaskan,PolarizedLenses]:
+      Value: 600
+    x[Gingham,Mirror]:
+      Value: 220
+    x[Gingham,Titanium]:
+      Value: 220
+    x[HalfJacket,Evolve]:
+      Value: 306
+    x[HalfJacket,Mirror]:
+      Value: 204
+    x[Justin,Classic]:
+      Value: 44.0064000000004
+    x[Justin,PolarizedLenses]:
+      Value: 66.0096000000006
+    x[Oval,Classic]:
+      Value: 384
+    x[Oval,FlashLenses]:
+      Value: 256
+    x[RoundDoubleBridge,Mirror]:
+      Value: 221.975999999998
+    x[RoundDoubleBridge,Titanium]:
+      Value: 308.024000000002
+    x[StripeArm,Collection]:
+      Value: 301
+    x[StripeArm,Evolve]:
+      Value: 129
+    x[Timeless,Outdoor]:
+      Value: 134
+    x[Timeless,PolarizedLenses]:
+      Value: 536
+  Constraint: No values

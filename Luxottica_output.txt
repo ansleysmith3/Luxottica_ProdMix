@@ -1,0 +1,33 @@
+Product  Variation  Units
+Clubmaster Outdoor 216.0
+Clubmaster Mirror 504.0
+Justin Classic 44.01
+Justin PolarizedLenses 66.01
+RoundDoubleBridge Titanium 308.02
+RoundDoubleBridge Mirror 221.98
+Timeless Outdoor 134.0
+Timeless PolarizedLenses 536.0
+FlightJacket Outdoor 78.0
+FlightJacket Collection 312.0
+FrogSkins Evolve 80.0
+FrogSkins FlashLenses 320.0
+Gaskan Evolve 150.0
+Gaskan PolarizedLenses 600.0
+Flak Titanium 132.0
+Flak RB3603 222.15
+Flak Mirror 305.85
+HalfJacket Evolve 306.0
+HalfJacket Mirror 204.0
+Oval Classic 384.0
+Oval FlashLenses 256.0
+Gingham Titanium 220.0
+Gingham Mirror 220.0
+StripeArm Evolve 129.0
+StripeArm Collection 301.0
+
+Resource  Used  Available
+Preparation 40000.0 40000
+Assembly 50000.0 50000
+Quality 60000.0 60000
+
+Total profit: 206503.23

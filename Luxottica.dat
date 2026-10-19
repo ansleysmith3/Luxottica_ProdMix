@@ -1,0 +1,1081 @@
+set I := Aviator Wayfarer Clubmaster Justin Erika Round RB3594 RoundDoubleBridge Timeless Holbrook FlightJacket TargetLine FrogSkins Gaskan Flak HalfJacket Rectangle Shield Butterfly Oval ClipOn Denim Tartam Gingham StripeArm ;
+
+set J := Classic Titanium Gradient Evolve Outdoor RB3603 FlashLenses Collection Mirror PolarizedLenses ;
+
+set K := RB3603 FlashLenses Collection Mirror PolarizedLenses ;
+
+set R := Preparation Assembly Quality ;
+
+param p :=
+Aviator Classic 71
+Aviator Titanium 71
+Aviator Gradient 63
+Aviator Evolve 77
+Aviator Outdoor 82
+Aviator RB3603 102
+Aviator FlashLenses 104
+Aviator Collection 132
+Aviator Mirror 138
+Aviator PolarizedLenses 153
+Wayfarer Classic 57
+Wayfarer Titanium 56
+Wayfarer Gradient 65
+Wayfarer Evolve 97
+Wayfarer Outdoor 106
+Wayfarer RB3603 148
+Wayfarer FlashLenses 185
+Wayfarer Collection 183
+Wayfarer Mirror 207
+Wayfarer PolarizedLenses 209
+Clubmaster Classic 94
+Clubmaster Titanium 107
+Clubmaster Gradient 99
+Clubmaster Evolve 113
+Clubmaster Outdoor 139
+Clubmaster RB3603 142
+Clubmaster FlashLenses 170
+Clubmaster Collection 173
+Clubmaster Mirror 230
+Clubmaster PolarizedLenses 214
+Justin Classic 103
+Justin Titanium 105
+Justin Gradient 110
+Justin Evolve 143
+Justin Outdoor 148
+Justin RB3603 150
+Justin FlashLenses 156
+Justin Collection 157
+Justin Mirror 156
+Justin PolarizedLenses 197
+Erika Classic 102
+Erika Titanium 115
+Erika Gradient 129
+Erika Evolve 126
+Erika Outdoor 159
+Erika RB3603 157
+Erika FlashLenses 164
+Erika Collection 180
+Erika Mirror 184
+Erika PolarizedLenses 180
+Round Classic 72
+Round Titanium 84
+Round Gradient 82
+Round Evolve 75
+Round Outdoor 83
+Round RB3603 80
+Round FlashLenses 86
+Round Collection 85
+Round Mirror 87
+Round PolarizedLenses 87
+RB3594 Classic 55
+RB3594 Titanium 56
+RB3594 Gradient 55
+RB3594 Evolve 57
+RB3594 Outdoor 80
+RB3594 RB3603 106
+RB3594 FlashLenses 107
+RB3594 Collection 113
+RB3594 Mirror 109
+RB3594 PolarizedLenses 114
+RoundDoubleBridge Classic 58
+RoundDoubleBridge Titanium 101
+RoundDoubleBridge Gradient 101
+RoundDoubleBridge Evolve 101
+RoundDoubleBridge Outdoor 117
+RoundDoubleBridge RB3603 143
+RoundDoubleBridge FlashLenses 137
+RoundDoubleBridge Collection 152
+RoundDoubleBridge Mirror 163
+RoundDoubleBridge PolarizedLenses 160
+Timeless Classic 92
+Timeless Titanium 103
+Timeless Gradient 94
+Timeless Evolve 98
+Timeless Outdoor 104
+Timeless RB3603 100
+Timeless FlashLenses 100
+Timeless Collection 102
+Timeless Mirror 114
+Timeless PolarizedLenses 117
+Holbrook Classic 88
+Holbrook Titanium 91
+Holbrook Gradient 98
+Holbrook Evolve 88
+Holbrook Outdoor 93
+Holbrook RB3603 94
+Holbrook FlashLenses 106
+Holbrook Collection 139
+Holbrook Mirror 134
+Holbrook PolarizedLenses 149
+FlightJacket Classic 56
+FlightJacket Titanium 99
+FlightJacket Gradient 110
+FlightJacket Evolve 108
+FlightJacket Outdoor 112
+FlightJacket RB3603 111
+FlightJacket FlashLenses 120
+FlightJacket Collection 122
+FlightJacket Mirror 113
+FlightJacket PolarizedLenses 118
+TargetLine Classic 56
+TargetLine Titanium 52
+TargetLine Gradient 58
+TargetLine Evolve 59
+TargetLine Outdoor 59
+TargetLine RB3603 66
+TargetLine FlashLenses 64
+TargetLine Collection 63
+TargetLine Mirror 61
+TargetLine PolarizedLenses 63
+FrogSkins Classic 126
+FrogSkins Titanium 132
+FrogSkins Gradient 137
+FrogSkins Evolve 150
+FrogSkins Outdoor 144
+FrogSkins RB3603 152
+FrogSkins FlashLenses 184
+FrogSkins Collection 170
+FrogSkins Mirror 181
+FrogSkins PolarizedLenses 184
+Gaskan Classic 121
+Gaskan Titanium 135
+Gaskan Gradient 137
+Gaskan Evolve 143
+Gaskan Outdoor 132
+Gaskan RB3603 150
+Gaskan FlashLenses 150
+Gaskan Collection 179
+Gaskan Mirror 185
+Gaskan PolarizedLenses 212
+Flak Classic 76
+Flak Titanium 80
+Flak Gradient 79
+Flak Evolve 87
+Flak Outdoor 87
+Flak RB3603 101
+Flak FlashLenses 101
+Flak Collection 115
+Flak Mirror 139
+Flak PolarizedLenses 138
+HalfJacket Classic 75
+HalfJacket Titanium 77
+HalfJacket Gradient 106
+HalfJacket Evolve 108
+HalfJacket Outdoor 128
+HalfJacket RB3603 145
+HalfJacket FlashLenses 145
+HalfJacket Collection 174
+HalfJacket Mirror 193
+HalfJacket PolarizedLenses 182
+Rectangle Classic 86
+Rectangle Titanium 86
+Rectangle Gradient 81
+Rectangle Evolve 89
+Rectangle Outdoor 95
+Rectangle RB3603 129
+Rectangle FlashLenses 130
+Rectangle Collection 118
+Rectangle Mirror 121
+Rectangle PolarizedLenses 124
+Shield Classic 111
+Shield Titanium 111
+Shield Gradient 114
+Shield Evolve 129
+Shield Outdoor 126
+Shield RB3603 125
+Shield FlashLenses 124
+Shield Collection 130
+Shield Mirror 127
+Shield PolarizedLenses 133
+Butterfly Classic 73
+Butterfly Titanium 67
+Butterfly Gradient 77
+Butterfly Evolve 74
+Butterfly Outdoor 82
+Butterfly RB3603 100
+Butterfly FlashLenses 98
+Butterfly Collection 95
+Butterfly Mirror 124
+Butterfly PolarizedLenses 120
+Oval Classic 109
+Oval Titanium 116
+Oval Gradient 110
+Oval Evolve 121
+Oval Outdoor 128
+Oval RB3603 142
+Oval FlashLenses 152
+Oval Collection 177
+Oval Mirror 185
+Oval PolarizedLenses 180
+ClipOn Classic 50
+ClipOn Titanium 59
+ClipOn Gradient 64
+ClipOn Evolve 68
+ClipOn Outdoor 79
+ClipOn RB3603 83
+ClipOn FlashLenses 83
+ClipOn Collection 88
+ClipOn Mirror 86
+ClipOn PolarizedLenses 115
+Denim Classic 91
+Denim Titanium 91
+Denim Gradient 118
+Denim Evolve 131
+Denim Outdoor 140
+Denim RB3603 148
+Denim FlashLenses 157
+Denim Collection 160
+Denim Mirror 175
+Denim PolarizedLenses 185
+Tartam Classic 117
+Tartam Titanium 129
+Tartam Gradient 125
+Tartam Evolve 135
+Tartam Outdoor 139
+Tartam RB3603 164
+Tartam FlashLenses 158
+Tartam Collection 161
+Tartam Mirror 162
+Tartam PolarizedLenses 157
+Gingham Classic 121
+Gingham Titanium 128
+Gingham Gradient 114
+Gingham Evolve 115
+Gingham Outdoor 124
+Gingham RB3603 157
+Gingham FlashLenses 157
+Gingham Collection 179
+Gingham Mirror 192
+Gingham PolarizedLenses 192
+StripeArm Classic 116
+StripeArm Titanium 108
+StripeArm Gradient 138
+StripeArm Evolve 180
+StripeArm Outdoor 184
+StripeArm RB3603 227
+StripeArm FlashLenses 225
+StripeArm Collection 234
+StripeArm Mirror 255
+StripeArm PolarizedLenses 265
+;
+
+param d :=
+Aviator 430
+Wayfarer 750
+Clubmaster 720
+Justin 620
+Erika 340
+Round 510
+RB3594 370
+RoundDoubleBridge 530
+Timeless 670
+Holbrook 780
+FlightJacket 390
+TargetLine 600
+FrogSkins 400
+Gaskan 750
+Flak 660
+HalfJacket 510
+Rectangle 740
+Shield 390
+Butterfly 690
+Oval 640
+ClipOn 330
+Denim 600
+Tartam 760
+Gingham 440
+StripeArm 430
+;
+
+param t :=
+Preparation Aviator Classic 7
+Preparation Aviator Titanium 7
+Preparation Aviator Gradient 7
+Preparation Aviator Evolve 7
+Preparation Aviator Outdoor 9
+Preparation Aviator RB3603 12
+Preparation Aviator FlashLenses 12
+Preparation Aviator Collection 13
+Preparation Aviator Mirror 13
+Preparation Aviator PolarizedLenses 13
+Preparation Wayfarer Classic 6
+Preparation Wayfarer Titanium 6
+Preparation Wayfarer Gradient 8
+Preparation Wayfarer Evolve 8
+Preparation Wayfarer Outdoor 10
+Preparation Wayfarer RB3603 10
+Preparation Wayfarer FlashLenses 10
+Preparation Wayfarer Collection 10
+Preparation Wayfarer Mirror 13
+Preparation Wayfarer PolarizedLenses 13
+Preparation Clubmaster Classic 4
+Preparation Clubmaster Titanium 7
+Preparation Clubmaster Gradient 7
+Preparation Clubmaster Evolve 7
+Preparation Clubmaster Outdoor 7
+Preparation Clubmaster RB3603 7
+Preparation Clubmaster FlashLenses 10
+Preparation Clubmaster Collection 10
+Preparation Clubmaster Mirror 10
+Preparation Clubmaster PolarizedLenses 10
+Preparation Justin Classic 6
+Preparation Justin Titanium 9
+Preparation Justin Gradient 9
+Preparation Justin Evolve 11
+Preparation Justin Outdoor 11
+Preparation Justin RB3603 11
+Preparation Justin FlashLenses 11
+Preparation Justin Collection 11
+Preparation Justin Mirror 11
+Preparation Justin PolarizedLenses 11
+Preparation Erika Classic 8
+Preparation Erika Titanium 9
+Preparation Erika Gradient 9
+Preparation Erika Evolve 9
+Preparation Erika Outdoor 9
+Preparation Erika RB3603 11
+Preparation Erika FlashLenses 11
+Preparation Erika Collection 14
+Preparation Erika Mirror 14
+Preparation Erika PolarizedLenses 14
+Preparation Round Classic 5
+Preparation Round Titanium 8
+Preparation Round Gradient 8
+Preparation Round Evolve 8
+Preparation Round Outdoor 8
+Preparation Round RB3603 8
+Preparation Round FlashLenses 8
+Preparation Round Collection 9
+Preparation Round Mirror 9
+Preparation Round PolarizedLenses 9
+Preparation RB3594 Classic 2
+Preparation RB3594 Titanium 2
+Preparation RB3594 Gradient 2
+Preparation RB3594 Evolve 2
+Preparation RB3594 Outdoor 5
+Preparation RB3594 RB3603 7
+Preparation RB3594 FlashLenses 7
+Preparation RB3594 Collection 7
+Preparation RB3594 Mirror 7
+Preparation RB3594 PolarizedLenses 7
+Preparation RoundDoubleBridge Classic 2
+Preparation RoundDoubleBridge Titanium 2
+Preparation RoundDoubleBridge Gradient 3
+Preparation RoundDoubleBridge Evolve 3
+Preparation RoundDoubleBridge Outdoor 6
+Preparation RoundDoubleBridge RB3603 6
+Preparation RoundDoubleBridge FlashLenses 6
+Preparation RoundDoubleBridge Collection 8
+Preparation RoundDoubleBridge Mirror 8
+Preparation RoundDoubleBridge PolarizedLenses 8
+Preparation Timeless Classic 3
+Preparation Timeless Titanium 3
+Preparation Timeless Gradient 3
+Preparation Timeless Evolve 3
+Preparation Timeless Outdoor 3
+Preparation Timeless RB3603 3
+Preparation Timeless FlashLenses 3
+Preparation Timeless Collection 3
+Preparation Timeless Mirror 3
+Preparation Timeless PolarizedLenses 3
+Preparation Holbrook Classic 7
+Preparation Holbrook Titanium 7
+Preparation Holbrook Gradient 8
+Preparation Holbrook Evolve 8
+Preparation Holbrook Outdoor 8
+Preparation Holbrook RB3603 8
+Preparation Holbrook FlashLenses 8
+Preparation Holbrook Collection 11
+Preparation Holbrook Mirror 11
+Preparation Holbrook PolarizedLenses 11
+Preparation FlightJacket Classic 5
+Preparation FlightJacket Titanium 6
+Preparation FlightJacket Gradient 6
+Preparation FlightJacket Evolve 6
+Preparation FlightJacket Outdoor 6
+Preparation FlightJacket RB3603 6
+Preparation FlightJacket FlashLenses 6
+Preparation FlightJacket Collection 6
+Preparation FlightJacket Mirror 6
+Preparation FlightJacket PolarizedLenses 6
+Preparation TargetLine Classic 2
+Preparation TargetLine Titanium 2
+Preparation TargetLine Gradient 4
+Preparation TargetLine Evolve 4
+Preparation TargetLine Outdoor 4
+Preparation TargetLine RB3603 4
+Preparation TargetLine FlashLenses 4
+Preparation TargetLine Collection 4
+Preparation TargetLine Mirror 4
+Preparation TargetLine PolarizedLenses 4
+Preparation FrogSkins Classic 5
+Preparation FrogSkins Titanium 8
+Preparation FrogSkins Gradient 8
+Preparation FrogSkins Evolve 8
+Preparation FrogSkins Outdoor 8
+Preparation FrogSkins RB3603 8
+Preparation FrogSkins FlashLenses 8
+Preparation FrogSkins Collection 8
+Preparation FrogSkins Mirror 8
+Preparation FrogSkins PolarizedLenses 8
+Preparation Gaskan Classic 8
+Preparation Gaskan Titanium 8
+Preparation Gaskan Gradient 8
+Preparation Gaskan Evolve 8
+Preparation Gaskan Outdoor 8
+Preparation Gaskan RB3603 8
+Preparation Gaskan FlashLenses 8
+Preparation Gaskan Collection 8
+Preparation Gaskan Mirror 8
+Preparation Gaskan PolarizedLenses 8
+Preparation Flak Classic 4
+Preparation Flak Titanium 4
+Preparation Flak Gradient 4
+Preparation Flak Evolve 4
+Preparation Flak Outdoor 6
+Preparation Flak RB3603 6
+Preparation Flak FlashLenses 6
+Preparation Flak Collection 6
+Preparation Flak Mirror 6
+Preparation Flak PolarizedLenses 6
+Preparation HalfJacket Classic 4
+Preparation HalfJacket Titanium 4
+Preparation HalfJacket Gradient 4
+Preparation HalfJacket Evolve 4
+Preparation HalfJacket Outdoor 4
+Preparation HalfJacket RB3603 4
+Preparation HalfJacket FlashLenses 4
+Preparation HalfJacket Collection 4
+Preparation HalfJacket Mirror 4
+Preparation HalfJacket PolarizedLenses 4
+Preparation Rectangle Classic 8
+Preparation Rectangle Titanium 8
+Preparation Rectangle Gradient 8
+Preparation Rectangle Evolve 8
+Preparation Rectangle Outdoor 8
+Preparation Rectangle RB3603 8
+Preparation Rectangle FlashLenses 8
+Preparation Rectangle Collection 8
+Preparation Rectangle Mirror 8
+Preparation Rectangle PolarizedLenses 8
+Preparation Shield Classic 8
+Preparation Shield Titanium 8
+Preparation Shield Gradient 8
+Preparation Shield Evolve 8
+Preparation Shield Outdoor 8
+Preparation Shield RB3603 8
+Preparation Shield FlashLenses 8
+Preparation Shield Collection 8
+Preparation Shield Mirror 8
+Preparation Shield PolarizedLenses 11
+Preparation Butterfly Classic 4
+Preparation Butterfly Titanium 4
+Preparation Butterfly Gradient 5
+Preparation Butterfly Evolve 5
+Preparation Butterfly Outdoor 6
+Preparation Butterfly RB3603 6
+Preparation Butterfly FlashLenses 6
+Preparation Butterfly Collection 6
+Preparation Butterfly Mirror 9
+Preparation Butterfly PolarizedLenses 9
+Preparation Oval Classic 5
+Preparation Oval Titanium 5
+Preparation Oval Gradient 5
+Preparation Oval Evolve 5
+Preparation Oval Outdoor 5
+Preparation Oval RB3603 8
+Preparation Oval FlashLenses 10
+Preparation Oval Collection 10
+Preparation Oval Mirror 10
+Preparation Oval PolarizedLenses 10
+Preparation ClipOn Classic 4
+Preparation ClipOn Titanium 4
+Preparation ClipOn Gradient 7
+Preparation ClipOn Evolve 7
+Preparation ClipOn Outdoor 7
+Preparation ClipOn RB3603 7
+Preparation ClipOn FlashLenses 7
+Preparation ClipOn Collection 7
+Preparation ClipOn Mirror 8
+Preparation ClipOn PolarizedLenses 8
+Preparation Denim Classic 7
+Preparation Denim Titanium 7
+Preparation Denim Gradient 8
+Preparation Denim Evolve 9
+Preparation Denim Outdoor 9
+Preparation Denim RB3603 9
+Preparation Denim FlashLenses 9
+Preparation Denim Collection 9
+Preparation Denim Mirror 12
+Preparation Denim PolarizedLenses 14
+Preparation Tartam Classic 5
+Preparation Tartam Titanium 5
+Preparation Tartam Gradient 5
+Preparation Tartam Evolve 5
+Preparation Tartam Outdoor 5
+Preparation Tartam RB3603 8
+Preparation Tartam FlashLenses 8
+Preparation Tartam Collection 8
+Preparation Tartam Mirror 8
+Preparation Tartam PolarizedLenses 8
+Preparation Gingham Classic 5
+Preparation Gingham Titanium 5
+Preparation Gingham Gradient 5
+Preparation Gingham Evolve 5
+Preparation Gingham Outdoor 8
+Preparation Gingham RB3603 8
+Preparation Gingham FlashLenses 8
+Preparation Gingham Collection 8
+Preparation Gingham Mirror 8
+Preparation Gingham PolarizedLenses 8
+Preparation StripeArm Classic 5
+Preparation StripeArm Titanium 5
+Preparation StripeArm Gradient 6
+Preparation StripeArm Evolve 8
+Preparation StripeArm Outdoor 8
+Preparation StripeArm RB3603 8
+Preparation StripeArm FlashLenses 8
+Preparation StripeArm Collection 8
+Preparation StripeArm Mirror 11
+Preparation StripeArm PolarizedLenses 11
+Assembly Aviator Classic 3
+Assembly Aviator Titanium 3
+Assembly Aviator Gradient 3
+Assembly Aviator Evolve 4
+Assembly Aviator Outdoor 4
+Assembly Aviator RB3603 4
+Assembly Aviator FlashLenses 4
+Assembly Aviator Collection 7
+Assembly Aviator Mirror 8
+Assembly Aviator PolarizedLenses 8
+Assembly Wayfarer Classic 3
+Assembly Wayfarer Titanium 3
+Assembly Wayfarer Gradient 3
+Assembly Wayfarer Evolve 5
+Assembly Wayfarer Outdoor 5
+Assembly Wayfarer RB3603 8
+Assembly Wayfarer FlashLenses 11
+Assembly Wayfarer Collection 11
+Assembly Wayfarer Mirror 12
+Assembly Wayfarer PolarizedLenses 12
+Assembly Clubmaster Classic 5
+Assembly Clubmaster Titanium 5
+Assembly Clubmaster Gradient 5
+Assembly Clubmaster Evolve 6
+Assembly Clubmaster Outdoor 8
+Assembly Clubmaster RB3603 8
+Assembly Clubmaster FlashLenses 10
+Assembly Clubmaster Collection 10
+Assembly Clubmaster Mirror 13
+Assembly Clubmaster PolarizedLenses 13
+Assembly Justin Classic 6
+Assembly Justin Titanium 6
+Assembly Justin Gradient 6
+Assembly Justin Evolve 8
+Assembly Justin Outdoor 8
+Assembly Justin RB3603 8
+Assembly Justin FlashLenses 8
+Assembly Justin Collection 8
+Assembly Justin Mirror 9
+Assembly Justin PolarizedLenses 12
+Assembly Erika Classic 6
+Assembly Erika Titanium 6
+Assembly Erika Gradient 6
+Assembly Erika Evolve 6
+Assembly Erika Outdoor 9
+Assembly Erika RB3603 9
+Assembly Erika FlashLenses 9
+Assembly Erika Collection 9
+Assembly Erika Mirror 9
+Assembly Erika PolarizedLenses 9
+Assembly Round Classic 3
+Assembly Round Titanium 3
+Assembly Round Gradient 3
+Assembly Round Evolve 3
+Assembly Round Outdoor 3
+Assembly Round RB3603 3
+Assembly Round FlashLenses 3
+Assembly Round Collection 3
+Assembly Round Mirror 3
+Assembly Round PolarizedLenses 3
+Assembly RB3594 Classic 4
+Assembly RB3594 Titanium 4
+Assembly RB3594 Gradient 4
+Assembly RB3594 Evolve 4
+Assembly RB3594 Outdoor 4
+Assembly RB3594 RB3603 4
+Assembly RB3594 FlashLenses 4
+Assembly RB3594 Collection 4
+Assembly RB3594 Mirror 4
+Assembly RB3594 PolarizedLenses 5
+Assembly RoundDoubleBridge Classic 4
+Assembly RoundDoubleBridge Titanium 7
+Assembly RoundDoubleBridge Gradient 7
+Assembly RoundDoubleBridge Evolve 7
+Assembly RoundDoubleBridge Outdoor 7
+Assembly RoundDoubleBridge RB3603 7
+Assembly RoundDoubleBridge FlashLenses 7
+Assembly RoundDoubleBridge Collection 7
+Assembly RoundDoubleBridge Mirror 7
+Assembly RoundDoubleBridge PolarizedLenses 7
+Assembly Timeless Classic 5
+Assembly Timeless Titanium 5
+Assembly Timeless Gradient 5
+Assembly Timeless Evolve 5
+Assembly Timeless Outdoor 5
+Assembly Timeless RB3603 5
+Assembly Timeless FlashLenses 5
+Assembly Timeless Collection 5
+Assembly Timeless Mirror 6
+Assembly Timeless PolarizedLenses 6
+Assembly Holbrook Classic 4
+Assembly Holbrook Titanium 4
+Assembly Holbrook Gradient 4
+Assembly Holbrook Evolve 4
+Assembly Holbrook Outdoor 4
+Assembly Holbrook RB3603 4
+Assembly Holbrook FlashLenses 5
+Assembly Holbrook Collection 7
+Assembly Holbrook Mirror 7
+Assembly Holbrook PolarizedLenses 8
+Assembly FlightJacket Classic 3
+Assembly FlightJacket Titanium 6
+Assembly FlightJacket Gradient 6
+Assembly FlightJacket Evolve 6
+Assembly FlightJacket Outdoor 6
+Assembly FlightJacket RB3603 6
+Assembly FlightJacket FlashLenses 6
+Assembly FlightJacket Collection 6
+Assembly FlightJacket Mirror 6
+Assembly FlightJacket PolarizedLenses 6
+Assembly TargetLine Classic 3
+Assembly TargetLine Titanium 3
+Assembly TargetLine Gradient 3
+Assembly TargetLine Evolve 3
+Assembly TargetLine Outdoor 3
+Assembly TargetLine RB3603 3
+Assembly TargetLine FlashLenses 3
+Assembly TargetLine Collection 3
+Assembly TargetLine Mirror 3
+Assembly TargetLine PolarizedLenses 3
+Assembly FrogSkins Classic 7
+Assembly FrogSkins Titanium 8
+Assembly FrogSkins Gradient 8
+Assembly FrogSkins Evolve 8
+Assembly FrogSkins Outdoor 8
+Assembly FrogSkins RB3603 8
+Assembly FrogSkins FlashLenses 11
+Assembly FrogSkins Collection 11
+Assembly FrogSkins Mirror 11
+Assembly FrogSkins PolarizedLenses 11
+Assembly Gaskan Classic 7
+Assembly Gaskan Titanium 8
+Assembly Gaskan Gradient 8
+Assembly Gaskan Evolve 8
+Assembly Gaskan Outdoor 8
+Assembly Gaskan RB3603 8
+Assembly Gaskan FlashLenses 8
+Assembly Gaskan Collection 10
+Assembly Gaskan Mirror 10
+Assembly Gaskan PolarizedLenses 10
+Assembly Flak Classic 3
+Assembly Flak Titanium 3
+Assembly Flak Gradient 3
+Assembly Flak Evolve 3
+Assembly Flak Outdoor 3
+Assembly Flak RB3603 3
+Assembly Flak FlashLenses 3
+Assembly Flak Collection 3
+Assembly Flak Mirror 4
+Assembly Flak PolarizedLenses 4
+Assembly HalfJacket Classic 4
+Assembly HalfJacket Titanium 4
+Assembly HalfJacket Gradient 7
+Assembly HalfJacket Evolve 7
+Assembly HalfJacket Outdoor 9
+Assembly HalfJacket RB3603 9
+Assembly HalfJacket FlashLenses 9
+Assembly HalfJacket Collection 11
+Assembly HalfJacket Mirror 12
+Assembly HalfJacket PolarizedLenses 12
+Assembly Rectangle Classic 4
+Assembly Rectangle Titanium 4
+Assembly Rectangle Gradient 4
+Assembly Rectangle Evolve 4
+Assembly Rectangle Outdoor 4
+Assembly Rectangle RB3603 6
+Assembly Rectangle FlashLenses 6
+Assembly Rectangle Collection 6
+Assembly Rectangle Mirror 6
+Assembly Rectangle PolarizedLenses 6
+Assembly Shield Classic 5
+Assembly Shield Titanium 5
+Assembly Shield Gradient 5
+Assembly Shield Evolve 5
+Assembly Shield Outdoor 5
+Assembly Shield RB3603 5
+Assembly Shield FlashLenses 5
+Assembly Shield Collection 5
+Assembly Shield Mirror 5
+Assembly Shield PolarizedLenses 5
+Assembly Butterfly Classic 3
+Assembly Butterfly Titanium 3
+Assembly Butterfly Gradient 3
+Assembly Butterfly Evolve 3
+Assembly Butterfly Outdoor 3
+Assembly Butterfly RB3603 3
+Assembly Butterfly FlashLenses 3
+Assembly Butterfly Collection 3
+Assembly Butterfly Mirror 3
+Assembly Butterfly PolarizedLenses 3
+Assembly Oval Classic 5
+Assembly Oval Titanium 5
+Assembly Oval Gradient 5
+Assembly Oval Evolve 5
+Assembly Oval Outdoor 5
+Assembly Oval RB3603 5
+Assembly Oval FlashLenses 5
+Assembly Oval Collection 7
+Assembly Oval Mirror 7
+Assembly Oval PolarizedLenses 7
+Assembly ClipOn Classic 2
+Assembly ClipOn Titanium 2
+Assembly ClipOn Gradient 2
+Assembly ClipOn Evolve 2
+Assembly ClipOn Outdoor 2
+Assembly ClipOn RB3603 2
+Assembly ClipOn FlashLenses 2
+Assembly ClipOn Collection 2
+Assembly ClipOn Mirror 2
+Assembly ClipOn PolarizedLenses 5
+Assembly Denim Classic 3
+Assembly Denim Titanium 3
+Assembly Denim Gradient 6
+Assembly Denim Evolve 7
+Assembly Denim Outdoor 7
+Assembly Denim RB3603 7
+Assembly Denim FlashLenses 7
+Assembly Denim Collection 7
+Assembly Denim Mirror 7
+Assembly Denim PolarizedLenses 7
+Assembly Tartam Classic 7
+Assembly Tartam Titanium 8
+Assembly Tartam Gradient 8
+Assembly Tartam Evolve 9
+Assembly Tartam Outdoor 9
+Assembly Tartam RB3603 9
+Assembly Tartam FlashLenses 9
+Assembly Tartam Collection 9
+Assembly Tartam Mirror 9
+Assembly Tartam PolarizedLenses 9
+Assembly Gingham Classic 7
+Assembly Gingham Titanium 7
+Assembly Gingham Gradient 7
+Assembly Gingham Evolve 7
+Assembly Gingham Outdoor 7
+Assembly Gingham RB3603 9
+Assembly Gingham FlashLenses 9
+Assembly Gingham Collection 11
+Assembly Gingham Mirror 11
+Assembly Gingham PolarizedLenses 11
+Assembly StripeArm Classic 6
+Assembly StripeArm Titanium 6
+Assembly StripeArm Gradient 8
+Assembly StripeArm Evolve 11
+Assembly StripeArm Outdoor 11
+Assembly StripeArm RB3603 13
+Assembly StripeArm FlashLenses 13
+Assembly StripeArm Collection 13
+Assembly StripeArm Mirror 13
+Assembly StripeArm PolarizedLenses 15
+Quality Aviator Classic 3
+Quality Aviator Titanium 3
+Quality Aviator Gradient 3
+Quality Aviator Evolve 3
+Quality Aviator Outdoor 3
+Quality Aviator RB3603 3
+Quality Aviator FlashLenses 3
+Quality Aviator Collection 3
+Quality Aviator Mirror 3
+Quality Aviator PolarizedLenses 5
+Quality Wayfarer Classic 2
+Quality Wayfarer Titanium 2
+Quality Wayfarer Gradient 2
+Quality Wayfarer Evolve 5
+Quality Wayfarer Outdoor 5
+Quality Wayfarer RB3603 5
+Quality Wayfarer FlashLenses 7
+Quality Wayfarer Collection 7
+Quality Wayfarer Mirror 7
+Quality Wayfarer PolarizedLenses 7
+Quality Clubmaster Classic 7
+Quality Clubmaster Titanium 7
+Quality Clubmaster Gradient 7
+Quality Clubmaster Evolve 7
+Quality Clubmaster Outdoor 7
+Quality Clubmaster RB3603 8
+Quality Clubmaster FlashLenses 8
+Quality Clubmaster Collection 8
+Quality Clubmaster Mirror 11
+Quality Clubmaster PolarizedLenses 11
+Quality Justin Classic 5
+Quality Justin Titanium 5
+Quality Justin Gradient 6
+Quality Justin Evolve 6
+Quality Justin Outdoor 6
+Quality Justin RB3603 6
+Quality Justin FlashLenses 6
+Quality Justin Collection 6
+Quality Justin Mirror 6
+Quality Justin PolarizedLenses 6
+Quality Erika Classic 4
+Quality Erika Titanium 7
+Quality Erika Gradient 7
+Quality Erika Evolve 7
+Quality Erika Outdoor 7
+Quality Erika RB3603 7
+Quality Erika FlashLenses 7
+Quality Erika Collection 8
+Quality Erika Mirror 8
+Quality Erika PolarizedLenses 8
+Quality Round Classic 5
+Quality Round Titanium 5
+Quality Round Gradient 5
+Quality Round Evolve 5
+Quality Round Outdoor 5
+Quality Round RB3603 5
+Quality Round FlashLenses 5
+Quality Round Collection 5
+Quality Round Mirror 5
+Quality Round PolarizedLenses 5
+Quality RB3594 Classic 2
+Quality RB3594 Titanium 2
+Quality RB3594 Gradient 2
+Quality RB3594 Evolve 3
+Quality RB3594 Outdoor 5
+Quality RB3594 RB3603 8
+Quality RB3594 FlashLenses 9
+Quality RB3594 Collection 9
+Quality RB3594 Mirror 9
+Quality RB3594 PolarizedLenses 9
+Quality RoundDoubleBridge Classic 3
+Quality RoundDoubleBridge Titanium 5
+Quality RoundDoubleBridge Gradient 6
+Quality RoundDoubleBridge Evolve 6
+Quality RoundDoubleBridge Outdoor 7
+Quality RoundDoubleBridge RB3603 10
+Quality RoundDoubleBridge FlashLenses 10
+Quality RoundDoubleBridge Collection 12
+Quality RoundDoubleBridge Mirror 12
+Quality RoundDoubleBridge PolarizedLenses 12
+Quality Timeless Classic 7
+Quality Timeless Titanium 9
+Quality Timeless Gradient 9
+Quality Timeless Evolve 9
+Quality Timeless Outdoor 9
+Quality Timeless RB3603 9
+Quality Timeless FlashLenses 9
+Quality Timeless Collection 9
+Quality Timeless Mirror 9
+Quality Timeless PolarizedLenses 9
+Quality Holbrook Classic 6
+Quality Holbrook Titanium 6
+Quality Holbrook Gradient 6
+Quality Holbrook Evolve 6
+Quality Holbrook Outdoor 6
+Quality Holbrook RB3603 6
+Quality Holbrook FlashLenses 6
+Quality Holbrook Collection 6
+Quality Holbrook Mirror 6
+Quality Holbrook PolarizedLenses 6
+Quality FlightJacket Classic 3
+Quality FlightJacket Titanium 5
+Quality FlightJacket Gradient 7
+Quality FlightJacket Evolve 7
+Quality FlightJacket Outdoor 7
+Quality FlightJacket RB3603 7
+Quality FlightJacket FlashLenses 7
+Quality FlightJacket Collection 7
+Quality FlightJacket Mirror 7
+Quality FlightJacket PolarizedLenses 7
+Quality TargetLine Classic 4
+Quality TargetLine Titanium 4
+Quality TargetLine Gradient 4
+Quality TargetLine Evolve 4
+Quality TargetLine Outdoor 4
+Quality TargetLine RB3603 4
+Quality TargetLine FlashLenses 4
+Quality TargetLine Collection 4
+Quality TargetLine Mirror 4
+Quality TargetLine PolarizedLenses 4
+Quality FrogSkins Classic 8
+Quality FrogSkins Titanium 8
+Quality FrogSkins Gradient 8
+Quality FrogSkins Evolve 8
+Quality FrogSkins Outdoor 8
+Quality FrogSkins RB3603 8
+Quality FrogSkins FlashLenses 8
+Quality FrogSkins Collection 8
+Quality FrogSkins Mirror 8
+Quality FrogSkins PolarizedLenses 11
+Quality Gaskan Classic 7
+Quality Gaskan Titanium 7
+Quality Gaskan Gradient 7
+Quality Gaskan Evolve 7
+Quality Gaskan Outdoor 7
+Quality Gaskan RB3603 7
+Quality Gaskan FlashLenses 9
+Quality Gaskan Collection 9
+Quality Gaskan Mirror 12
+Quality Gaskan PolarizedLenses 15
+Quality Flak Classic 7
+Quality Flak Titanium 7
+Quality Flak Gradient 7
+Quality Flak Evolve 9
+Quality Flak Outdoor 9
+Quality Flak RB3603 9
+Quality Flak FlashLenses 11
+Quality Flak Collection 12
+Quality Flak Mirror 15
+Quality Flak PolarizedLenses 15
+Quality HalfJacket Classic 5
+Quality HalfJacket Titanium 5
+Quality HalfJacket Gradient 5
+Quality HalfJacket Evolve 5
+Quality HalfJacket Outdoor 8
+Quality HalfJacket RB3603 8
+Quality HalfJacket FlashLenses 8
+Quality HalfJacket Collection 11
+Quality HalfJacket Mirror 11
+Quality HalfJacket PolarizedLenses 11
+Quality Rectangle Classic 4
+Quality Rectangle Titanium 4
+Quality Rectangle Gradient 4
+Quality Rectangle Evolve 6
+Quality Rectangle Outdoor 6
+Quality Rectangle RB3603 7
+Quality Rectangle FlashLenses 7
+Quality Rectangle Collection 7
+Quality Rectangle Mirror 7
+Quality Rectangle PolarizedLenses 7
+Quality Shield Classic 8
+Quality Shield Titanium 8
+Quality Shield Gradient 10
+Quality Shield Evolve 10
+Quality Shield Outdoor 10
+Quality Shield RB3603 10
+Quality Shield FlashLenses 10
+Quality Shield Collection 10
+Quality Shield Mirror 10
+Quality Shield PolarizedLenses 10
+Quality Butterfly Classic 6
+Quality Butterfly Titanium 6
+Quality Butterfly Gradient 6
+Quality Butterfly Evolve 7
+Quality Butterfly Outdoor 7
+Quality Butterfly RB3603 9
+Quality Butterfly FlashLenses 9
+Quality Butterfly Collection 9
+Quality Butterfly Mirror 12
+Quality Butterfly PolarizedLenses 12
+Quality Oval Classic 8
+Quality Oval Titanium 11
+Quality Oval Gradient 11
+Quality Oval Evolve 11
+Quality Oval Outdoor 12
+Quality Oval RB3603 12
+Quality Oval FlashLenses 12
+Quality Oval Collection 15
+Quality Oval Mirror 15
+Quality Oval PolarizedLenses 15
+Quality ClipOn Classic 3
+Quality ClipOn Titanium 5
+Quality ClipOn Gradient 5
+Quality ClipOn Evolve 5
+Quality ClipOn Outdoor 8
+Quality ClipOn RB3603 8
+Quality ClipOn FlashLenses 8
+Quality ClipOn Collection 8
+Quality ClipOn Mirror 8
+Quality ClipOn PolarizedLenses 8
+Quality Denim Classic 7
+Quality Denim Titanium 7
+Quality Denim Gradient 7
+Quality Denim Evolve 7
+Quality Denim Outdoor 10
+Quality Denim RB3603 10
+Quality Denim FlashLenses 11
+Quality Denim Collection 11
+Quality Denim Mirror 11
+Quality Denim PolarizedLenses 11
+Quality Tartam Classic 8
+Quality Tartam Titanium 8
+Quality Tartam Gradient 8
+Quality Tartam Evolve 9
+Quality Tartam Outdoor 9
+Quality Tartam RB3603 9
+Quality Tartam FlashLenses 9
+Quality Tartam Collection 9
+Quality Tartam Mirror 9
+Quality Tartam PolarizedLenses 9
+Quality Gingham Classic 8
+Quality Gingham Titanium 8
+Quality Gingham Gradient 8
+Quality Gingham Evolve 8
+Quality Gingham Outdoor 8
+Quality Gingham RB3603 8
+Quality Gingham FlashLenses 8
+Quality Gingham Collection 9
+Quality Gingham Mirror 9
+Quality Gingham PolarizedLenses 9
+Quality StripeArm Classic 8
+Quality StripeArm Titanium 8
+Quality StripeArm Gradient 8
+Quality StripeArm Evolve 8
+Quality StripeArm Outdoor 10
+Quality StripeArm RB3603 13
+Quality StripeArm FlashLenses 13
+Quality StripeArm Collection 13
+Quality StripeArm Mirror 16
+Quality StripeArm PolarizedLenses 17
+;
+
+param v :=
+Aviator 0.8
+Wayfarer 0.6
+Clubmaster 0.7
+Justin 0.6
+Erika 0.4
+Round 0.5
+RB3594 0.8
+RoundDoubleBridge 0.8
+Timeless 0.8
+Holbrook 0.7
+FlightJacket 0.8
+TargetLine 0.5
+FrogSkins 0.8
+Gaskan 0.8
+Flak 0.8
+HalfJacket 0.4
+Rectangle 0.4
+Shield 0.8
+Butterfly 0.4
+Oval 0.4
+ClipOn 0.7
+Denim 0.5
+Tartam 0.7
+Gingham 0.5
+StripeArm 0.7
+;
+
+param c :=
+Preparation 3
+Assembly 8
+Quality 4
+;
+
+param A :=
+Preparation 40000
+Assembly 50000
+Quality 60000
+;
